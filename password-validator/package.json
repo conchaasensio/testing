@@ -1,0 +1,15 @@
+{
+  "name": "password-validator",
+  "version": "1.0.0",
+  "description": "Kata Password Validator",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "Codium",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
